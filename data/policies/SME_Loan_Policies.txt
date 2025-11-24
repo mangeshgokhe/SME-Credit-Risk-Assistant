@@ -1,0 +1,8 @@
+Policy: Debt-to-Equity and Eligibility
+- SMEs with Debt/Equity ratio > 3.0 are high risk and require escalated approval.
+- KYC and 2 years financials required.Borrowers
+- Loans above 100k require director guarantees.
+- SME loans should not exceed 4x annual profit.
+- Borrowers with past defaults require enhanced due diligence.
+- Company revenue should be stable for at least 2 years.
+- Loans over 250k require audited financial statements.

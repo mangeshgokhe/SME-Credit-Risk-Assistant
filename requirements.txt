@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+networkx
+pandas
+numpy
+python-dotenv
+streamlit
+openai
+tqdm

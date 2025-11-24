@@ -1,0 +1,201 @@
+id,type,name
+c1,Company,Sample Fabrics
+c2,Company,Alpha Textiles Pvt Ltd
+c3,Company,Beta Furnishings
+c4,Company,Harris Johnson and Sons Pvt Ltd
+c5,Company,Miller LLC
+c6,Company,Smith Brown and Co. Corp
+c7,Company,Anderson Inc
+c8,Company,Garcia-Foster Holdings
+c9,Company,Parker Industries Ltd
+c10,Company,Lopez Martinez and Sons Pvt Ltd
+c11,Company,White LLC
+c12,Company,King Hall and Co. Corp
+c13,Company,Young Enterprises Ltd
+c14,Company,Johnson & Sons LLC
+c15,Company,Brown Smith and Partners Pvt Ltd
+c16,Company,Clark Industries Corp
+c17,Company,Martinez-Foster Enterprises Ltd
+c18,Company,Lewis Allen and Co. LLC
+c19,Company,Walker Holdings Ltd
+c20,Company,Robinson Young and Sons Corp
+c21,Company,Perez Enterprises Pvt Ltd
+c22,Company,Hall Allen and Co. Ltd
+c23,Company,Allen LLC
+c24,Company,Morris Lewis and Partners Corp
+c25,Company,Thompson LLC
+c26,Company,Hernandez White and Sons Pvt Ltd
+c27,Company,King Industries Ltd
+c28,Company,Wright Lopez and Partners Corp
+c29,Company,Scott Enterprises Pvt Ltd
+c30,Company,Green Allen and Co. Ltd
+c31,Company,Adams LLC
+c32,Company,Baker Lewis and Partners Corp
+c33,Company,Nelson Enterprises Pvt Ltd
+c34,Company,Carter White and Sons Pvt Ltd
+c35,Company,Mitchell Industries Ltd
+c36,Company,Perez Lopez and Partners Corp
+c37,Company,Roberts Enterprises Pvt Ltd
+c38,Company,Turner Allen and Co. Ltd
+c39,Company,Phillips LLC
+c40,Company,Campbell Lewis and Partners Corp
+c41,Company,Parker Enterprises Pvt Ltd
+c42,Company,Evans White and Sons Pvt Ltd
+c43,Company,Edwards Industries Ltd
+c44,Company,Collins Lopez and Partners Corp
+c45,Company,Stewart Enterprises Pvt Ltd
+c46,Company,Sanchez Allen and Co. Ltd
+c47,Company,Morris LLC
+c48,Company,Rogers Lewis and Partners Corp
+c49,Company,Reed Enterprises Pvt Ltd
+c50,Company,Cook White and Sons Pvt Ltd
+c51,Company,Morgan Industries Ltd
+c52,Company,Bell Lopez and Partners Corp
+c53,Company,Murphy Enterprises Pvt Ltd
+c54,Company,Bailey Allen and Co. Ltd
+c55,Company,Rivera LLC
+c56,Company,Cooper Lewis and Partners Corp
+c57,Company,Richardson Enterprises Pvt Ltd
+c58,Company,Cox White and Sons Pvt Ltd
+c59,Company,Howard Industries Ltd
+c60,Company,Ward Lopez and Partners Corp
+c61,Company,Torres Enterprises Pvt Ltd
+c62,Company,Peterson Allen and Co. Ltd
+c63,Company,Gray LLC
+c64,Company,Ramirez Lewis and Partners Corp
+c65,Company,James Enterprises Pvt Ltd
+c66,Company,Watson White and Sons Pvt Ltd
+c67,Company,Brooks Industries Ltd
+c68,Company,Kelly Lopez and Partners Corp
+c69,Company,Sanders Enterprises Pvt Ltd
+c70,Company,Price Allen and Co. Ltd
+c71,Company,Bennett LLC
+c72,Company,Wood Lewis and Partners Corp
+c73,Company,Barnes Enterprises Pvt Ltd
+c74,Company,Ross White and Sons Pvt Ltd
+c75,Company,Henderson Industries Ltd
+c76,Company,Cole Lopez and Partners Corp
+c77,Company,Jenkins Enterprises Pvt Ltd
+c78,Company,Perry Allen and Co. Ltd
+c79,Company,Powell LLC
+c80,Company,Long Lewis and Partners Corp
+c81,Company,Patterson Enterprises Pvt Ltd
+c82,Company,Hughes White and Sons Pvt Ltd
+c83,Company,Flores Industries Ltd
+c84,Company,Washington Lopez and Partners Corp
+c85,Company,Butler Enterprises Pvt Ltd
+c86,Company,Simmons Allen and Co. Ltd
+c87,Company,Foster LLC
+c88,Company,Gonzales Lewis and Partners Corp
+c89,Company,Bryant Enterprises Pvt Ltd
+c90,Company,Alexander White and Sons Pvt Ltd
+c91,Company,Russell Industries Ltd
+c92,Company,Griffin Lopez and Partners Corp
+c93,Company,Diaz Enterprises Pvt Ltd
+c94,Company,Hayes Allen and Co. Ltd
+c95,Company,Myers LLC
+c96,Company,Ford Lewis and Partners Corp
+c97,Company,Hamilton Enterprises Pvt Ltd
+c98,Company,Graham White and Sons Pvt Ltd
+c99,Company,Sullivan Industries Ltd
+c100,Company,Wallace Lopez and Partners Corp
+p1,Person,Nitin Sharma
+p2,Person,Anil Kumar
+p3,Person,Sunita Verma
+p4,Person,Rahul Mehra
+p5,Person,Sneha Gupta
+p6,Person,Ajay Singh
+p7,Person,Neha Joshi
+p8,Person,Arjun Reddy
+p9,Person,Priya Kapoor
+p10,Person,Manish Choudhary
+p11,Person,Deepak Sharma
+p12,Person,Pooja Agarwal
+p13,Person,Varun Nair
+p14,Person,Ritika Singh
+p15,Person,Karan Malhotra
+p16,Person,Sonia Rathi
+p17,Person,Rohit Bansal
+p18,Person,Meera Iyer
+p19,Person,Sachin Rao
+p20,Person,Aditi Verma
+p21,Person,Vikram Sinha
+p22,Person,Rashmi Kapoor
+p23,Person,Ankit Mehta
+p24,Person,Divya Jain
+p25,Person,Saurabh Gupta
+p26,Person,Shreya Patil
+p27,Person,Pradeep Kumar
+p28,Person,Neha Sharma
+p29,Person,Aditya Malhotra
+p30,Person,Ritu Agarwal
+p31,Person,Rajesh Singh
+p32,Person,Alok Verma
+p33,Person,Kavita Rao
+p34,Person,Anand Iyer
+p35,Person,Shruti Joshi
+p36,Person,Vinay Bansal
+p37,Person,Swati Kapoor
+p38,Person,Rahul Choudhary
+p39,Person,Megha Sharma
+p40,Person,Siddharth Singh
+p41,Person,Ananya Nair
+p42,Person,Pranav Mehta
+p43,Person,Neelam Agarwal
+p44,Person,Varun Sharma
+p45,Person,Priyanka Joshi
+p46,Person,Abhishek Kumar
+p47,Person,Sonia Malhotra
+p48,Person,Rajiv Rao
+p49,Person,Divya Kapoor
+p50,Person,Manoj Sharma
+p51,Person,Kiran Verma
+p52,Person,Rahul Joshi
+p53,Person,Neha Mehta
+p54,Person,Vinod Singh
+p55,Person,Ritika Kapoor
+p56,Person,Ankit Sharma
+p57,Person,Alka Agarwal
+p58,Person,Praveen Rao
+p59,Person,Shivani Nair
+p60,Person,Siddharth Mehra
+p61,Person,Neha Kapoor
+p62,Person,Ajay Verma
+p63,Person,Anjali Sharma
+p64,Person,Rajesh Malhotra
+p65,Person,Pooja Singh
+p66,Person,Deepak Rao
+p67,Person,Shreya Verma
+p68,Person,Varun Mehta
+p69,Person,Ritika Joshi
+p70,Person,Manish Kapoor
+p71,Person,Neha Singh
+p72,Person,Rohit Verma
+p73,Person,Sonia Malhotra
+p74,Person,Aditya Sharma
+p75,Person,Meera Agarwal
+p76,Person,Vikram Rao
+p77,Person,Rashmi Nair
+p78,Person,Ankit Singh
+p79,Person,Divya Verma
+p80,Person,Saurabh Mehta
+p81,Person,Shreya Kapoor
+p82,Person,Pradeep Sharma
+p83,Person,Neha Malhotra
+p84,Person,Aditya Rao
+p85,Person,Ritu Singh
+p86,Person,Rajesh Kapoor
+p87,Person,Alok Sharma
+p88,Person,Kavita Mehta
+p89,Person,Anand Verma
+p90,Person,Shruti Rao
+p91,Person,Vinay Kapoor
+p92,Person,Swati Sharma
+p93,Person,Rahul Verma
+p94,Person,Megha Joshi
+p95,Person,Siddharth Malhotra
+p96,Person,Ananya Kapoor
+p97,Person,Pranav Sharma
+p98,Person,Neelam Singh
+p99,Person,Varun Kapoor
+p100,Person,Priyanka Verma
